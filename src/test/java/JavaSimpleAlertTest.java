@@ -23,7 +23,4 @@ public class JavaSimpleAlertTest  extends BaseTest {
         FileUtils.copyFile(scrFile, new File("c:\\tmp\\screenshot.png"));
         alert.accept();
     }
-
-
-
 }
